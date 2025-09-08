@@ -3,3 +3,6 @@ hello
 asdf
 notepad
 anyway
+tata
+tea
+coffee
